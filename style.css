@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+body {
+	font-size: 16px;
+	line-height: 1.5;
+	-webkit-top-highlight-color: transparent;
+}
+.logo {
+	height: 60px;
+	width: 70px;
+}
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+.header .logo {
+}
+.header .nav-toggler {
+	height: 34px;
+	width: 44px;
+}
+.container {
+	width: 100%;
+	background-color: red;
+	margin: auto;
+}
